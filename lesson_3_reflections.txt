@@ -9,3 +9,5 @@ Branches happen on a single repository.Clonning involves taking an existing repo
 To compare and create a merge of all changes in the project
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I'd use the GoogleDoc but it's appropriate only for small project and easy documents.
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When someone else makes changes that conflict with my version.
