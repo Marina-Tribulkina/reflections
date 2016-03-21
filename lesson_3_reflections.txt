@@ -7,3 +7,5 @@ local?
 Branches happen on a single repository.Clonning involves taking an existing repository and making one just like. Forking is a lot like cloning but for Github (allows to make a copy of somebody else's repository directly on the Github) 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 To compare and create a merge of all changes in the project
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I'd use the GoogleDoc but it's appropriate only for small project and easy documents.
